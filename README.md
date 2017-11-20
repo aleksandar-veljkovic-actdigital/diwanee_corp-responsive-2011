@@ -1,2 +1,3 @@
-# diwanee_corp-responsive-2011
-My first responsive website
+# Diwanee Corp Responsive (2011)
+## My first responsive website
+Made and were integrated as mobile theme for Drupal 6.

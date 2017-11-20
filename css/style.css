@@ -1,0 +1,86 @@
+.header-navigation {
+  background-color: #222222;
+  border-bottom: 3px solid #161616;
+}
+.header-navigation #nice-menu-2 li{
+  margin: 0;
+  padding: 0;
+}
+.header-navigation #nice-menu-2 li a {
+  display: block;
+  text-align: center;
+  border-left: 3px solid #161616;
+}
+
+
+.logo a {
+  display: block;
+  text-align: left;
+}
+
+.view-Brands a {
+  display: block;
+  text-align: center;
+}
+
+.pane-header {
+  border-top: 3px solid #dedede;
+  border-bottom: 6px solid #000000;
+  margin: 6px auto;
+}
+
+.offices {
+  background-color: #3b393a;
+  border-bottom: 3px solid #525051;
+  color:  #989898;
+}
+
+.flexslider h2 a {
+  font-size: 0.8em!important;
+  line-height: 1em!important;
+}
+
+.social {
+  background-color: #333333;
+}
+
+.full-desktop {
+  background-color: #b12c2f;
+  text-align: center;  
+}
+
+.copyrights {
+  background-color: #000000; 
+  color: #9b9b9b;
+  text-align: center;
+}
+
+
+.latest-capaings .views-row,
+.in-the-news .views-row,
+.tweeter-content .tw-row,
+.offices .office {
+  border-bottom: 1px solid #cccccc;
+  margin: 1% 0;
+}
+.latest-capaings .views-row.views-row-last,
+.in-the-news .views-row.views-row-last,
+.tweeter-content div:last-child,
+.offices .office:last-child {
+  border-bottom: 0px solid transparent;
+  margin: 0;
+}
+
+.offices h2 {
+  border-bottom: 0.2em solid #676767;  
+}
+.offices .office {position: relative;}
+.offices .office .button-parent {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+.flexslider .flex-direction-nav a {
+  outline: none;
+}
